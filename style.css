@@ -1,0 +1,51 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+#div-header{
+    width: 90%;
+    height: 800px;
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#orange{
+    width: 99%;
+    height: 785px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#red{
+    width: 25%;
+    height: 50%;
+    background-color: red;
+}
+#green{
+    width: 25%;
+    height: 50%;
+    background-color: green;
+}
+#blue{
+    width: 25%;
+    height: 50%;
+    background-color: blue;
+}
+#white{
+    width: 25%;
+    height: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+}
+#black{
+    width: 99%;
+    height: 100%;
+    background-color: black;
+}
